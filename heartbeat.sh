@@ -1,6 +1,6 @@
 #!/bin/bash
 # PARAMETRES
-# ===================================================
+# ====================================================
 date_format=`date +%H:%M-%d/%m/%Y` 
 status_file='/root/heartbeat/heartbeat.status'
 log_file='/root/heartbeat/heartbeat.log'
